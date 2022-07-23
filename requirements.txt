@@ -1,0 +1,5 @@
+flask
+numpy
+pandas
+sklearn
+Jinja2==2.10.1
